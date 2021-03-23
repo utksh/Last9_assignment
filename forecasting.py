@@ -1,5 +1,5 @@
 
-import scikits.statsmodels.api as sm
+from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
 
 class modelling:
