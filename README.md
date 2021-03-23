@@ -38,4 +38,4 @@ be an appropriate choice
 $ pip install -r requirements.txt <br/>
 $ python run.py <br/>
 
-## Working_notebook.ipynb shows running solution of the entire problem with detailed description at each step.
+## Working_notebook.ipynb shows running solution of the entire problem with detailed description at each step. which shows one point in forecasting period anomaly.
