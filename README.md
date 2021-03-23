@@ -29,7 +29,7 @@ I have used a very simple approach for simulating the data for this problem. The
 
 ## Forecasting
 The Generated data has a constanct increasing trend as well as an additive seasonality, we conclude that **Holt-Winter additive model** would 
-be an appropriate choice
+be an appropriate choice. I have used a simple exponential smoothing technique forecast the consumption.
 
  ## Outlier detection
  Here I have used Brutlag algorithm which is very simple statistical technique to detect outliers, it is an extension to exponential smoothing. The algorithm plots a upper bound and lower bound band on the entire data. The points that lie beyond these bands are termed as an anomaly.
